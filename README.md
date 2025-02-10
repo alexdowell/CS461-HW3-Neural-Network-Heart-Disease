@@ -50,12 +50,12 @@ One challenge was the **small dataset size**, making it difficult for the model 
 `x_train.shape, y_train.shape, x_test.shape, y_test.shape, x_val.shape, y_val.shape`  
 `(237, 13) (237, 5) (30, 13) (30, 5) (30, 13) (30, 5)`  
 
-### **Training Progress (First 5 Epochs):  
-Epoch 1/15 - loss: 1.6495 - accuracy: 0.1772 - val_loss: 1.6560 - val_accuracy: 0.1667
-Epoch 2/15 - loss: 1.5889 - accuracy: 0.2447 - val_loss: 1.6017 - val_accuracy: 0.2333
-Epoch 3/15 - loss: 1.5356 - accuracy: 0.3418 - val_loss: 1.5580 - val_accuracy: 0.4000
-Epoch 4/15 - loss: 1.4858 - accuracy: 0.4304 - val_loss: 1.5186 - val_accuracy: 0.4333
-Epoch 5/15 - loss: 1.4383 - accuracy: 0.4979 - val_loss: 1.4768 - val_accuracy: 0.4667
+### **Training Progress (First 5 Epochs):** 
+`Epoch 1/15 - loss: 1.6495 - accuracy: 0.1772 - val_loss: 1.6560 - val_accuracy: 0.1667`
+`Epoch 2/15 - loss: 1.5889 - accuracy: 0.2447 - val_loss: 1.6017 - val_accuracy: 0.2333`
+`Epoch 3/15 - loss: 1.5356 - accuracy: 0.3418 - val_loss: 1.5580 - val_accuracy: 0.4000`
+`Epoch 4/15 - loss: 1.4858 - accuracy: 0.4304 - val_loss: 1.5186 - val_accuracy: 0.4333`
+`Epoch 5/15 - loss: 1.4383 - accuracy: 0.4979 - val_loss: 1.4768 - val_accuracy: 0.4667`
 
 ### **Validation Accuracy:**  
 `Validation dataset accuracy: 50.0%`  
